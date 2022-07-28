@@ -3,7 +3,11 @@
 System to automatically track the number of people inside a closed space.
 Optionally also detect (missing) masks.
 
-
+![Home Page](https://user-images.githubusercontent.com/29836160/181562785-5e400e27-c34b-40ef-84a5-8adb767d92db.png)
+![Admin Screen](https://user-images.githubusercontent.com/29836160/181562767-a1c53a06-90c5-4819-9c67-97adea05e984.png)
+![Statistics](https://user-images.githubusercontent.com/29836160/181562748-50aea75f-c070-4f6b-a929-fbaf08ab3343.png)
+![Entrance Screen](https://user-images.githubusercontent.com/29836160/181562721-cf3ccea6-b646-4bf0-855a-f442d7113331.png)
+![Settings](https://user-images.githubusercontent.com/29836160/181562672-ddc176c2-3135-4a0b-b0f2-971d61d74a0d.png)
 
 ## Backend REST API
 
