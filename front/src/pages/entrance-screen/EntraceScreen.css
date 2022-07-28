@@ -1,0 +1,15 @@
+.blink {
+  animation: blink 2s linear infinite;
+}
+@keyframes blink {  
+  50% { opacity: 0; }
+}
+.fullscreen-enabled{
+    background-color: white;
+    padding: 50px;
+    width:100%;
+}
+
+.fullscreen{
+    position: relative;
+}
